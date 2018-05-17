@@ -1,0 +1,72 @@
+Country,Count,Name
+AND,1,Andorra
+LUX,2,Luxembourg
+MCO,2,Monaco
+ZAF,3,South Africa
+SVK,3,Slovakia
+TTO,3,Trinidad and Tobago
+AZE,4,Azerbaijan
+BOL,4,Bolivia
+KHM,4,Cambodia
+BGR,5,Bulgaria
+PAN,5,Panama
+BRN,5,Brunei
+GTM,7,Guatemala
+KAZ,8,Kazakstan
+FIN,8,Finland
+MAR,9,Morocco
+CYP,10,Cyprus
+BHS,10,Bahamas
+COL,11,Colombia
+CRI,11,Costa Rica
+PRT,11,Portugal
+SLV,11,El Salvador
+OMN,12,Oman
+HUN,16,Hungary
+NOR,17,Norway
+JOR,17,Jordan
+QAT,18,Qatar
+SWE,18,Sweden
+AUT,18,Austria
+BEL,19,Belgium
+BHR,21,Bahrain
+DNK,21,Denmark
+AUS,22,Australia
+PRI,24,Puerto Rico
+NZL,24,New Zealand
+VNM,25,Vietnam
+ROU,27,Romania
+CZE,28,Czech Republic
+GRC,28,Greece
+LBN,29,Lebanon
+EGY,31,Egypt
+POL,53,Poland
+NLD,59,Netherlands
+CHE,61,Switzerland
+IRL,73,Ireland
+IND,88,India
+PER,89,Peru
+CHL,96,Chile
+ESP,101,Spain
+SAU,102,Saudi Arabia
+BRA,102,Brazil
+KWT,106,Kuwait
+ARG,108,Argentina
+RUS,109,Russia
+SGP,130,Singapore
+FRA,132,France
+ARE,144,United Arab Emirates
+DEU,160,Germany
+MYS,234,Malaysia
+IDN,268,Indonesia
+THA,289,Thailand
+PHL,298,Philippines
+TUR,326,Turkey
+TWN,394,Taiwan
+MEX,579,Mexico
+GBR,901,United Kingdom
+KOR,993,Korea
+JPN,1237,Japan
+CAN,1468,Canada
+CHN,2734,China
+USA,13608,United States
